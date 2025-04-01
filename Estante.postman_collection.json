@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "c3767989-f605-49f0-a514-d789361b079c",
+		"name": "Estante",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38767472"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Usuario\" : \"SBWq+oLWYfEUF42esqPTIw==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Token/Autenticar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Token",
+						"Autenticar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjY3Mzg0MiwiZXhwIjoxNzMyNjc3NDQyLCJpYXQiOjE3MzI2NzM4NDJ9.WQrR2W8LdG7RWe5VhAdVUSW17sLW4dPLXudzeW1uvws\",\r\n    \"Entidad\": {\r\n        \"CodigoEstante\": \"e1\",\r\n        \"CodigoBodega\": \"b2\",\r\n        \"Nombre\": \"x\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Estante/Guardar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Estante",
+						"Guardar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjY3Mzg0MiwiZXhwIjoxNzMyNjc3NDQyLCJpYXQiOjE3MzI2NzM4NDJ9.WQrR2W8LdG7RWe5VhAdVUSW17sLW4dPLXudzeW1uvws\",\r\n    \"Entidad\": {\r\n        \"Nombre\": \"s\"\r\n    },\r\n    \"Tipo\": \"NOMBRE\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Estante/Buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Estante",
+						"Buscar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

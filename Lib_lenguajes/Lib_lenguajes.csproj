@@ -1,0 +1,105 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="RsAuditorias.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsAuditorias.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsBodega.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsBodega.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsEstante.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsEstante.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsInventario.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsInventario.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsProducto.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsProducto.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsAuditorias - Copy.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsAuditorias - Copy.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsMenu.Designer.cs">
+      <DependentUpon>RsMenu.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="RsErrores.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsErrores.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsProveedor.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsProveedor.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RsSucursal.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RsSucursal.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="RsBodega.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsBodega.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsEstante.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsEstante.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsInventario.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsInventario.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsProducto.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsProducto.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsAuditorias - Copy.resx">
+      <LastGenOutput>RsAuditorias - Copy.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsMenu.resx">
+      <LastGenOutput>RsMenu.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsAuditorias.resx">
+      <LastGenOutput>RsAuditorias.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsErrores.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsErrores.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsProveedor.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsProveedor.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RsSucursal.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RsSucursal.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

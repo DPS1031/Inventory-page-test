@@ -1,0 +1,28 @@
+﻿<center>
+    <div id="popup-mensajes" class='popup'>
+        <div class='pp_ms_inner'>
+            <div style='width:95%'>
+                <h2 align="left">
+                    @Lib_lenguajes.RsMenu.lbMensaje
+                </h2>
+
+                <h4 align="left">
+                    @ViewData["Mensaje"]
+                </h4>
+                <button id="closePopupButton" onclick="closePopup()">CERRAR</button>
+            </div>
+        </div>
+    </div>
+</center>
+
+<script type="text/javascript">
+    function closePopup() {
+        document.getElementById('popup-mensajes').style.display = 'none';
+    }
+</script>
+
+
+
+
+
+

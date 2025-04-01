@@ -1,0 +1,17 @@
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_aplicaciones.deps.json
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_aplicaciones.dll
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_aplicaciones.pdb
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_entidades.dll
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_repositorios.dll
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_entidades.pdb
+C:\Users\david\Development\Inventario\Lib_aplicaciones\bin\Debug\net8.0\Lib_repositorios.pdb
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.csproj.AssemblyReference.cache
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_apli.B4612676.Up2Date
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.dll
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\refint\Lib_aplicaciones.dll
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\Lib_aplicaciones.pdb
+C:\Users\david\Development\Inventario\Lib_aplicaciones\obj\Debug\net8.0\ref\Lib_aplicaciones.dll

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp.Inventario.Producto">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAABAACAEAAAABAAAAAAAACAAAAAAAAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Guarda" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApp.Inventario.Inventario">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARACCAEAAQAAAAECCBAAAAAAAAAAAAAACAAABAAAAgo=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.Inventario.Proveedor">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <AssociationLine Name="Distribuye" Type="ConsoleApp.Inventario.Producto">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.11" Y="0.06" Height="0.182" Width="1.033" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAECAggA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Distribuye" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApp.Inventario.Estante">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAACCABAAgAgAAAAAAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Archiva" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApp.Inventario.Bodega">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAEAAACAAAAAAAAAAAAAAAAAAAEAAAAAgI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Almacena" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApp.Inventario.Sucursal">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <AssociationLine Name="Pertenece" Type="ConsoleApp.Inventario.Bodega" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="12" Y="4.75" />
+        <Point X="12" Y="4.008" />
+        <Point X="12" Y="4.008" />
+        <Point X="12" Y="2.825" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAAAACAgAAAgIAAAEAAAAAAAAAEIAAAAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pertenece" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

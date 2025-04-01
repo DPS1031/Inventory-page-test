@@ -1,0 +1,5 @@
+C:\Users\david\Development\Inventario\Wpf_presentacion\obj\Debug\net8.0\Wpf_presentacion.csproj.AssemblyReference.cache
+C:\Users\david\Development\Inventario\Wpf_presentacion\obj\Debug\net8.0\Wpf_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Wpf_presentacion\obj\Debug\net8.0\Wpf_presentacion.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Wpf_presentacion\obj\Debug\net8.0\Wpf_presentacion.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Wpf_presentacion\obj\Debug\net8.0\Wpf_presentacion.csproj.CoreCompileInputs.cache

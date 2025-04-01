@@ -1,0 +1,184 @@
+﻿@page
+@model Asp_presentacion.Pages.Ventanas.EstanteModel
+@{
+    ViewData["Titulo"] = Lib_lenguajes.RsMenu.lbEstante;
+}
+<center>
+    <div>
+        <form method="POST"
+              enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+
+            <div align="left">
+                <h3>@Lib_lenguajes.RsMenu.lbEstante</h3>
+            </div>
+            <div align="left"
+                 class="bt_panel_buttons">
+                <input type="submit"
+                       value="@Lib_lenguajes.RsMenu.lbRefrescar"
+                       asp-page-handler="BtRefrescar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != Lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="@Lib_lenguajes.RsMenu.lbNuevo"
+                       asp-page-handler="BtNuevo"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != Lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="@Lib_lenguajes.RsMenu.lbGuardar"
+                       asp-page-handler="BtGuardar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion == Lib_utilidades.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="@Lib_lenguajes.RsMenu.lbCancelar"
+                       asp-page-handler="BtCancelar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion == Lib_utilidades.Enumerables.Ventanas.Listas)" />
+            </div>
+
+            @if (Model.Accion != Lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+            }
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Nombre" />
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Editar)
+            {
+                <div class="containers_vn panel panel-default">
+                    <h3>@Lib_lenguajes.RsEstante.lbSingular</h3>
+
+                    <div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsEstante.lbNombre
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmNombre"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Nombre" />
+                            </div>
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsEstante.lbCodigoEstante
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmCodigoEstante"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.CodigoEstante" />
+                            </div>
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsEstante.lbCodigoBodega
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmCodigoSucursal"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.CodigoBodega" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (ViewData.ContainsKey("Mensaje"))
+            {
+                <input type="hidden"
+                       asp-for="@Model.Accion" />
+                @await Html.PartialAsync(
+                         "../Emergentes/Mensajes.cshtml")
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <div class='popup'>
+                    <div class='pp_del_inner'>
+                        <div style='width:95%'>
+                            <h2 align="left">
+                                @Lib_lenguajes.RsMenu.lbMensaje
+                            </h2>
+
+                            <h4 align="left">
+                                @Lib_lenguajes.RsMenu.lbBorrarEntidad
+                            </h4>
+                            <h6 align="left">
+                                @Model.Actual!.Nombre
+                            </h6>
+                            <br />
+                            <br />
+                            <input type="submit"
+                                   value="@Lib_lenguajes.RsMenu.lbBorrar"
+                                   asp-page-handler="BtBorrar"
+                                   class="btn btn-secondary" />
+                            <input type="submit"
+                                   value="@Lib_lenguajes.RsMenu.lbCerrar"
+                                   asp-page-handler="BtCancelar"
+                                   class="btn btn-secondary" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input id="flNombre"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Filtro!.Nombre"
+                       placeholder="@Lib_lenguajes.RsEstante.lbNombre" />
+                <br />
+
+                <div class="containers_vn panel panel-default">
+                    <table class="tb_data table table-striped table-bordered table-hover">
+                        <tr>
+                            <th>
+                                @Lib_lenguajes.RsEstante.clNombre
+                            </th>
+                            <th>
+                                @Lib_lenguajes.RsEstante.clCodigoEstante
+                            </th>
+                            <th>
+                                @Lib_lenguajes.RsEstante.clCodigoBodega
+                            </th>
+                            <th class="cl_actions">
+                                @Lib_lenguajes.RsMenu.lbAccion
+                            </th>
+                        </tr>
+                        @if (Model != null && Model.Lista != null)
+                        {
+                            @foreach (var elemento in Model.Lista)
+                            {
+                                <tr>
+                                    <td>
+                                        @elemento.Nombre
+                                    </td>
+                                    <td>
+                                        @elemento.CodigoEstante
+                                    </td>
+                                    <td>
+                                        @elemento.CodigoBodega
+                                    </td>
+                                    <td>
+                                        <input type="submit"
+                                               value="@Lib_lenguajes.RsMenu.lbModicar"
+                                               asp-page-handler="BtModificar"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                        <input type="submit"
+                                               value="@Lib_lenguajes.RsMenu.lbBorrar"
+                                               asp-page-handler="BtBorrarVal"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </table>
+                </div>
+            }
+        </form>
+    </div>
+</center>

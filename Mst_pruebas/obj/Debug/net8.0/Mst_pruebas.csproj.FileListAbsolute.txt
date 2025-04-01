@@ -1,0 +1,6 @@
+C:\Users\david\Development\Inventario\Mst_pruebas\bin\Debug\net8.0\CoverletSourceRootsMapping_Mst_pruebas
+C:\Users\david\Development\Inventario\Mst_pruebas\obj\Debug\net8.0\Mst_pruebas.csproj.AssemblyReference.cache
+C:\Users\david\Development\Inventario\Mst_pruebas\obj\Debug\net8.0\Mst_pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Mst_pruebas\obj\Debug\net8.0\Mst_pruebas.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Mst_pruebas\obj\Debug\net8.0\Mst_pruebas.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Mst_pruebas\obj\Debug\net8.0\Mst_pruebas.csproj.CoreCompileInputs.cache

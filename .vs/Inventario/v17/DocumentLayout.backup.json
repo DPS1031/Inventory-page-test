@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Development\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\recursos\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\recursos\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\estante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\estante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_comunicaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_comunicaciones\\implementaciones\\productocomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\implementaciones\\productocomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_comunicaciones\\interfaces\\i_productocomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\interfaces\\i_productocomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|c:\\users\\david\\development\\inventario\\lib_presentaciones\\implementaciones\\productopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\productopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|c:\\users\\david\\development\\inventario\\lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|solutionrelative:lib_utilidades\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|c:\\users\\david\\development\\inventario\\lib_presentaciones\\interfaces\\i_productopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\i_productopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3061F-09EC-4DCD-A624-784DD52EDE24}|Lib_aplicaciones\\Lib_aplicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_aplicaciones\\implementaciones\\auditoriasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3061F-09EC-4DCD-A624-784DD52EDE24}|Lib_aplicaciones\\Lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\auditoriasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C34631-33DA-479B-89E2-D87E186E7F9B}|Lib_repositorios\\Lib_repositorios.csproj|c:\\users\\david\\development\\inventario\\lib_repositorios\\implementaciones\\auditoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C34631-33DA-479B-89E2-D87E186E7F9B}|Lib_repositorios\\Lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\auditoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_comunicaciones\\implementaciones\\auditoriascomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00273B7C-5477-4098-93DB-62577DBBB205}|Lib_comunicaciones\\Lib_comunicaciones.csproj|solutionrelative:lib_comunicaciones\\implementaciones\\auditoriascomunicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\auditorias.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\auditorias.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\bodega.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\bodega.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\auditorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\auditorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|c:\\users\\david\\development\\inventario\\lib_presentaciones\\implementaciones\\auditoriaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\auditoriaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\controllers\\auditoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\auditoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\inventario.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\inventario.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|c:\\users\\david\\development\\inventario\\asp_presentacion\\pages\\ventanas\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F9469-405C-4DAB-8CF5-D22CE8185344}|Asp_presentacion\\Asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3061F-09EC-4DCD-A624-784DD52EDE24}|Lib_aplicaciones\\Lib_aplicaciones.csproj|c:\\users\\david\\development\\inventario\\lib_aplicaciones\\implementaciones\\productoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3061F-09EC-4DCD-A624-784DD52EDE24}|Lib_aplicaciones\\Lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\productoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|c:\\users\\david\\development\\inventario\\lib_presentaciones\\implementaciones\\inventariopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A6129B-B7D6-4D81-AE3B-31217E7DCFE1}|Lib_presentaciones\\Lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\inventariopresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|c:\\users\\david\\development\\inventario\\lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|solutionrelative:lib_utilidades\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|c:\\users\\david\\development\\inventario\\lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6C0C1-8DE2-4782-8BED-C54B4E8027E7}|Lib_utilidades\\Lib_utilidades.csproj|solutionrelative:lib_utilidades\\jsonconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F21650B-D085-4D5C-A05D-90A90D63C619}|Lib_entidades\\Lib_entidades.csproj|c:\\users\\david\\development\\inventario\\lib_entidades\\auditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F21650B-D085-4D5C-A05D-90A90D63C619}|Lib_entidades\\Lib_entidades.csproj|solutionrelative:lib_entidades\\auditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|c:\\users\\david\\development\\inventario\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44AB9D2-0BDF-475E-97E8-23D276A0F88A}|Asp_servicios\\Asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B57EFF-B0C4-45D0-951F-601B9502DD3B}|Lib_lenguajes\\Lib_lenguajes.csproj|c:\\users\\david\\development\\inventario\\lib_lenguajes\\rsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B57EFF-B0C4-45D0-951F-601B9502DD3B}|Lib_lenguajes\\Lib_lenguajes.csproj|solutionrelative:lib_lenguajes\\rsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoComunicacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Implementaciones\\ProductoComunicacion.cs",
+              "RelativeDocumentMoniker": "Lib_comunicaciones\\Implementaciones\\ProductoComunicacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Implementaciones\\ProductoComunicacion.cs",
+              "RelativeToolTip": "Lib_comunicaciones\\Implementaciones\\ProductoComunicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:29:01.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T17:17:45.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Asp_presentacion\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Asp_presentacion\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-01T17:08:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Recursos\\secrets.json",
+              "RelativeDocumentMoniker": "Asp_servicios\\Recursos\\secrets.json",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Recursos\\secrets.json",
+              "RelativeToolTip": "Asp_servicios\\Recursos\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T17:00:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml.cs",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:13:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:56:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Asp_servicios\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwGoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:20:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "Lib_comunicaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "Lib_comunicaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABQwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:46:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Startup.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Startup.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Startup.cs",
+              "RelativeToolTip": "Asp_presentacion\\Startup.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:01:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:10:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Asp_presentacion\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Asp_presentacion\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-01T17:08:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:55:44.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Program.cs",
+              "RelativeToolTip": "Asp_presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:00:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mensajes.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T02:36:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "I_ProductoComunicacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Interfaces\\I_ProductoComunicacion.cs",
+              "RelativeDocumentMoniker": "Lib_comunicaciones\\Interfaces\\I_ProductoComunicacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Interfaces\\I_ProductoComunicacion.cs",
+              "RelativeToolTip": "Lib_comunicaciones\\Interfaces\\I_ProductoComunicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:29:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\ProductoPresentacion.cs",
+              "RelativeDocumentMoniker": "Lib_presentaciones\\Implementaciones\\ProductoPresentacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\ProductoPresentacion.cs",
+              "RelativeToolTip": "Lib_presentaciones\\Implementaciones\\ProductoPresentacion.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwDwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:09:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "Asp_servicios\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:59:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estante.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Estante.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Estante.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Estante.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Estante.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T16:31:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:55:59.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Producto.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAWwJoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T02:10:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "Lib_utilidades\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\DatosGenerales.cs",
+              "RelativeToolTip": "Lib_utilidades\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:15:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuditoriasComunicacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Implementaciones\\AuditoriasComunicacion.cs",
+              "RelativeDocumentMoniker": "Lib_comunicaciones\\Implementaciones\\AuditoriasComunicacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_comunicaciones\\Implementaciones\\AuditoriasComunicacion.cs",
+              "RelativeToolTip": "Lib_comunicaciones\\Implementaciones\\AuditoriasComunicacion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:19:13.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuditoriasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_repositorios\\Implementaciones\\AuditoriasRepositorio.cs",
+              "RelativeDocumentMoniker": "Lib_repositorios\\Implementaciones\\AuditoriasRepositorio.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_repositorios\\Implementaciones\\AuditoriasRepositorio.cs",
+              "RelativeToolTip": "Lib_repositorios\\Implementaciones\\AuditoriasRepositorio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:19:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "I_ProductoPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Interfaces\\I_ProductoPresentacion.cs",
+              "RelativeDocumentMoniker": "Lib_presentaciones\\Interfaces\\I_ProductoPresentacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Interfaces\\I_ProductoPresentacion.cs",
+              "RelativeToolTip": "Lib_presentaciones\\Interfaces\\I_ProductoPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:54:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Auditorias.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml.cs",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:54:03.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Auditorias.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Auditorias.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:08:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuditoriasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "RelativeToolTip": "Lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:06:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:12:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bodega.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Bodega.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Bodega.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Bodega.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Bodega.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:13:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditoriasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\AuditoriasPresentacion.cs",
+              "RelativeDocumentMoniker": "Lib_presentaciones\\Implementaciones\\AuditoriasPresentacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\AuditoriasPresentacion.cs",
+              "RelativeToolTip": "Lib_presentaciones\\Implementaciones\\AuditoriasPresentacion.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:19:20.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuditoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\AuditoriasController.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Controllers\\AuditoriasController.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\AuditoriasController.cs",
+              "RelativeToolTip": "Asp_servicios\\Controllers\\AuditoriasController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:44:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Inventario.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml.cs",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml.cs",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:09:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Inventario.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml",
+              "RelativeDocumentMoniker": "Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml",
+              "RelativeToolTip": "Asp_presentacion\\Pages\\Ventanas\\Inventario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:54:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductoAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_aplicaciones\\Implementaciones\\ProductoAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_aplicaciones\\Implementaciones\\ProductoAplicacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_aplicaciones\\Implementaciones\\ProductoAplicacion.cs",
+              "RelativeToolTip": "Lib_aplicaciones\\Implementaciones\\ProductoAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:30:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Asp_servicios\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:43:13.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InventarioPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\InventarioPresentacion.cs",
+              "RelativeDocumentMoniker": "Lib_presentaciones\\Implementaciones\\InventarioPresentacion.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_presentaciones\\Implementaciones\\InventarioPresentacion.cs",
+              "RelativeToolTip": "Lib_presentaciones\\Implementaciones\\InventarioPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:16:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\LogConversor.cs",
+              "RelativeDocumentMoniker": "Lib_utilidades\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\LogConversor.cs",
+              "RelativeToolTip": "Lib_utilidades\\LogConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:28:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "JsonConversor.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\JsonConversor.cs",
+              "RelativeDocumentMoniker": "Lib_utilidades\\JsonConversor.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_utilidades\\JsonConversor.cs",
+              "RelativeToolTip": "Lib_utilidades\\JsonConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:09:36.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Auditorias.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_entidades\\Auditorias.cs",
+              "RelativeDocumentMoniker": "Lib_entidades\\Auditorias.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_entidades\\Auditorias.cs",
+              "RelativeToolTip": "Lib_entidades\\Auditorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:05:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Program.cs",
+              "RelativeToolTip": "Asp_servicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:58:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Startup.cs",
+              "RelativeDocumentMoniker": "Asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Asp_servicios\\Startup.cs",
+              "RelativeToolTip": "Asp_servicios\\Startup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:58:19.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RsInventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Development\\Inventario\\Lib_lenguajes\\RsInventario.Designer.cs",
+              "RelativeDocumentMoniker": "Lib_lenguajes\\RsInventario.Designer.cs",
+              "ToolTip": "C:\\Users\\david\\Development\\Inventario\\Lib_lenguajes\\RsInventario.Designer.cs",
+              "RelativeToolTip": "Lib_lenguajes\\RsInventario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:54:23.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

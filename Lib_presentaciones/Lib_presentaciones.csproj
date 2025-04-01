@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib_comunicaciones\Lib_comunicaciones.csproj" />
+    <ProjectReference Include="..\Lib_entidades\Lib_entidades.csproj" />
+    <ProjectReference Include="..\Lib_utilidades\Lib_utilidades.csproj" />
+  </ItemGroup>
+
+</Project>

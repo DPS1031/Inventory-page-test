@@ -1,0 +1,17 @@
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_comunicaciones.deps.json
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_comunicaciones.dll
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_comunicaciones.pdb
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_lenguajes.dll
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_utilidades.dll
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_utilidades.pdb
+C:\Users\david\Development\Inventario\Lib_comunicaciones\bin\Debug\net8.0\Lib_lenguajes.pdb
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.csproj.AssemblyReference.cache
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comu.C644E8BB.Up2Date
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.dll
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\refint\Lib_comunicaciones.dll
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\Lib_comunicaciones.pdb
+C:\Users\david\Development\Inventario\Lib_comunicaciones\obj\Debug\net8.0\ref\Lib_comunicaciones.dll

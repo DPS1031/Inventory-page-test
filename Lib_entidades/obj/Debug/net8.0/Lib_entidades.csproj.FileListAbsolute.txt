@@ -1,0 +1,11 @@
+C:\Users\david\Development\Inventario\Lib_entidades\bin\Debug\net8.0\Lib_entidades.deps.json
+C:\Users\david\Development\Inventario\Lib_entidades\bin\Debug\net8.0\Lib_entidades.dll
+C:\Users\david\Development\Inventario\Lib_entidades\bin\Debug\net8.0\Lib_entidades.pdb
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.dll
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\refint\Lib_entidades.dll
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\Lib_entidades.pdb
+C:\Users\david\Development\Inventario\Lib_entidades\obj\Debug\net8.0\ref\Lib_entidades.dll

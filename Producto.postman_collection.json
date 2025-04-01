@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "76673204-a6a1-43ee-b474-1dceec9ab61f",
+		"name": "Producto",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38767472"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Usuario\" : \"SBWq+oLWYfEUF42esqPTIw==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Token/Autenticar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Token",
+						"Autenticar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjc1NzQ1NCwiZXhwIjoxNzMyNzYxMDU0LCJpYXQiOjE3MzI3NTc0NTR9.NHOpjWsnW_QBM21hhdvHspPK7L07a6bOlv8HDv63It8\",\r\n    \"Entidad\": {\r\n        \"CodigoProducto\": \"p5\",\r\n        \"Nombre\": \"CocaCola\",\r\n        \"Descripcion\": \"x\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Producto/Guardar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Producto",
+						"Guardar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjY2NDEyNiwiZXhwIjoxNzMyNjY3NzI2LCJpYXQiOjE3MzI2NjQxMjZ9.ZkcxCujE5STnkXvHadzF4lH9wzwY2Eku-zNg-KkEloE\",\r\n    \"Entidad\": {\r\n        \"Nombre\": \"C\"\r\n    },\r\n    \"Tipo\": \"NOMBRE\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Producto/Buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Producto",
+						"Buscar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

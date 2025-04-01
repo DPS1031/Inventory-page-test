@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "0d5fd701-aec6-4722-ab5e-3659cce2b088",
+		"name": "Proveedor",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38767472"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Usuario\" : \"SBWq+oLWYfEUF42esqPTIw==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Token/Autenticar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Token",
+						"Autenticar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjY2NTc2NiwiZXhwIjoxNzMyNjY5MzY2LCJpYXQiOjE3MzI2NjU3NjZ9.ZklHUJOW5PYQA0reisFE4kK7VRSALDt-cJ-NQTYUTsU\",\r\n    \"Entidad\": {\r\n        \"Codigo\": \"Pera\",\r\n        \"Nombre\": \"Pera\",\r\n        \"Direccion\": \"Pera\",\r\n        \"Contacto\": \"Pera\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Proveedor/Guardar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Proveedor",
+						"Guardar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjY2NTc2NiwiZXhwIjoxNzMyNjY5MzY2LCJpYXQiOjE3MzI2NjU3NjZ9.ZklHUJOW5PYQA0reisFE4kK7VRSALDt-cJ-NQTYUTsU\",\r\n    \"Entidad\": {\r\n        \"Nombre\": \"P\"\r\n    },\r\n    \"Tipo\": \"NOMBRE\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Proveedor/Buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Proveedor",
+						"Buscar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

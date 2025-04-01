@@ -1,0 +1,154 @@
+﻿@page
+@model Asp_presentacion.Pages.Ventanas.AuditoriasModel
+@{
+    ViewData["Titulo"] = Lib_lenguajes.RsMenu.lbAuditorias;
+}
+<center>
+    <div>
+        <form method="POST"
+              enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+
+            <div align="left">
+                <h3>@Lib_lenguajes.RsMenu.lbAuditorias</h3>
+            </div>
+            <div align="left"
+                 class="bt_panel_buttons">
+                <input type="submit"
+                       value="@Lib_lenguajes.RsMenu.lbRefrescar"
+                       asp-page-handler="BtRefrescar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != Lib_utilidades.Enumerables.Ventanas.Listas)" />
+            </div>
+
+            @if (Model.Accion != Lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+            }
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Usuario" />
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Editar)
+            {
+                <div class="containers_vn panel panel-default">
+                    <h3>@Lib_lenguajes.RsAuditorias.lbSingular</h3>
+
+                    <div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsAuditorias.lbUsuario
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmUsuario"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Usuario" />
+                            </div>
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsAuditorias.lbAccion
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmCodigoProducto"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Accion" />
+                            </div>
+                            <label class="col-lg-4 control-label">
+                                @Lib_lenguajes.RsAuditorias.lbFecha
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmCodigoBodega"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Fecha" />
+                            </div>
+\                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (ViewData.ContainsKey("Mensaje"))
+            {
+                <input type="hidden"
+                       asp-for="@Model.Accion" />
+                @await Html.PartialAsync(
+                         "../Emergentes/Mensajes.cshtml")
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <div class='popup'>
+                    <div class='pp_del_inner'>
+                        <div style='width:95%'>
+                            <h2 align="left">
+                                @Lib_lenguajes.RsMenu.lbMensaje
+                            </h2>
+
+                            <h4 align="left">
+                                @Lib_lenguajes.RsMenu.lbBorrarEntidad
+                            </h4>
+                            <h6 align="left">
+                                @Model.Actual!.Usuario
+                            </h6>
+                            <br />
+                            <br />
+                            <input type="submit"
+                                   value="@Lib_lenguajes.RsMenu.lbBorrar"
+                                   asp-page-handler="BtBorrar"
+                                   class="btn btn-secondary" />
+                            <input type="submit"
+                                   value="@Lib_lenguajes.RsMenu.lbCerrar"
+                                   asp-page-handler="BtCancelar"
+                                   class="btn btn-secondary" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (Model.Accion == Lib_utilidades.Enumerables.Ventanas.Listas ||
+            Model.Accion == Lib_utilidades.Enumerables.Ventanas.Borrar)
+            {
+                <input id="flUsuario"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Filtro!.Usuario"
+                       placeholder="@Lib_lenguajes.RsAuditorias.lbUsuario" />
+                <br />
+
+                <div class="containers_vn panel panel-default">
+                    <table class="tb_data table table-striped table-bordered table-hover">
+                        <tr>
+                            <th>
+                                @Lib_lenguajes.RsAuditorias.clUsuario
+                            </th>
+                            <th>
+                                @Lib_lenguajes.RsAuditorias.clAccion
+                            </th>
+                            <th>
+                                @Lib_lenguajes.RsAuditorias.clFecha
+                            </th>
+                        </tr>
+                        @if (Model != null && Model.Lista != null)
+                        {
+                            @foreach (var elemento in Model.Lista)
+                            {
+                                <tr>
+                                    <td>
+                                        @elemento.Usuario
+                                    </td>
+                                    <td>
+                                        @elemento.Accion
+                                    </td>
+                                    <td>
+                                        @elemento.Fecha
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </table>
+                </div>
+            }
+        </form>
+    </div>
+</center>

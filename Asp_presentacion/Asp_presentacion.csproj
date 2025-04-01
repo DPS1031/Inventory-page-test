@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib_comunicaciones\Lib_comunicaciones.csproj" />
+    <ProjectReference Include="..\Lib_entidades\Lib_entidades.csproj" />
+    <ProjectReference Include="..\Lib_lenguajes\Lib_lenguajes.csproj" />
+    <ProjectReference Include="..\Lib_presentaciones\Lib_presentaciones.csproj" />
+  </ItemGroup>
+
+</Project>

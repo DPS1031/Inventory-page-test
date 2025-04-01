@@ -1,0 +1,15 @@
+C:\Users\david\Development\Inventario\Lib_repositorios\bin\Debug\net8.0\Lib_repositorios.deps.json
+C:\Users\david\Development\Inventario\Lib_repositorios\bin\Debug\net8.0\Lib_repositorios.dll
+C:\Users\david\Development\Inventario\Lib_repositorios\bin\Debug\net8.0\Lib_repositorios.pdb
+C:\Users\david\Development\Inventario\Lib_repositorios\bin\Debug\net8.0\Lib_entidades.dll
+C:\Users\david\Development\Inventario\Lib_repositorios\bin\Debug\net8.0\Lib_entidades.pdb
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.AssemblyInfo.cs
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repo.AFD57C0E.Up2Date
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.dll
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\refint\Lib_repositorios.dll
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\Lib_repositorios.pdb
+C:\Users\david\Development\Inventario\Lib_repositorios\obj\Debug\net8.0\ref\Lib_repositorios.dll

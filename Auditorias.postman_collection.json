@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "8de911c8-6beb-4103-a5e8-9645eb359daa",
+		"name": "Auditorias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38767472"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Usuario\" : \"SBWq+oLWYfEUF42esqPTIw==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Token/Autenticar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Token",
+						"Autenticar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Bearer\": \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IlNCV3Erb0xXWWZFVUY0MmVzcVBUSXc9PSIsIm5iZiI6MTczMjc3MTM0OCwiZXhwIjoxNzMyNzc0OTQ4LCJpYXQiOjE3MzI3NzEzNDh9.Om9mwIQ6iNoFonSapXbrFxY5_jTKak9hHaOxkpGH4h4\",\r\n    \"Entidad\": {\r\n\r\n    },\r\n    \"Tipo\": \"USUARIO\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5281/Auditorias/Buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5281",
+					"path": [
+						"Auditorias",
+						"Buscar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
