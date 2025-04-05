@@ -7,7 +7,7 @@
 
 A full-stack web application for inventory, supplier, and branch management with JWT authentication and modular architecture.
 
-## ✨ Key Features
+## Key Features
 
 - **Multi-level Management**:
   - Branches → Warehouses → Shelves → Products
@@ -23,7 +23,7 @@ A full-stack web application for inventory, supplier, and branch management with
   - Flexible multi-criteria queries
   - Historical movement tracking
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Backend
 - **ASP.NET Core 6.0** - Main framework
